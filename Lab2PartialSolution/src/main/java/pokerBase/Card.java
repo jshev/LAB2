@@ -1,5 +1,7 @@
 package pokerBase;
 
+//McNellis, Bonnie 100%
+//Shevchenko, Julianna 100%
 
 import java.util.Comparator;
 
@@ -48,6 +50,8 @@ public class Card  implements Comparable {
 	    return c.geteRank().compareTo(this.geteRank()); 
 
 	}
+	
+	
 
 	
 }
