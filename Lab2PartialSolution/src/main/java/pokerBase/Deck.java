@@ -1,5 +1,8 @@
 package pokerBase;
 
+//McNellis, Bonnie 100%
+//Shevchenko, Julianna 100%
+
 import java.util.ArrayList;
 import java.util.Collections;
 
